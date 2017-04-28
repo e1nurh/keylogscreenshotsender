@@ -1,1 +1,3 @@
-# keylogscreenshotsender
+KeylogScreenShotSender 
+
+KeylogScreenShotSender sizə öz komputerinizi və ya hər hansı başqa komputeri izləməyə imkan verir.İlkin versiya kimi siz yalnız əvvəlcədən təyin etdiyiniz zaman müddətindən bir komputerdən screenshotlar və key loglarını e-mail vasitəsilə alacaqsız.Proqramın bu versiyası Windows əməliyyat sistemi üçün nəzərdə tutulub.Siz sadəcə bir dəfə fayla tıklamaqla proqram həmin tıkladığınız faylı Windows-un startup qovluğuna köçürəcək və işləməyə başlayacaq.Komputer restart olduqda isə proqram artıq avtomatik şəkildə işinə başlayacaq.Pyinstaller vasitəsilə proqramın .exe faylını yarda bilər və proqramın gizli şəkildə çalışmasını təmin edə bilərsiz(pyinstaller -w -F sourcefile.py).
